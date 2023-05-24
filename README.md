@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is about predictiong the price of a laptop based on common features like Memory, Processor and many more attributes. <br/><br/>
+This project is about predicting the price of a laptop based on common features like Memory, Processor and many more attributes. <br/><br/>
 <img src="img/laptops_images.jpg">
 
 ## Problem Solving Steps
