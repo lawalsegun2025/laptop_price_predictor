@@ -2,9 +2,9 @@
 
 ## Table of Content
 
-* [Demo](#Demo)
+* [Demo](#demo)
 * [Overview](#overview)
-* [Motivation](#motivattion)
+* [Motivation](#motivation)
 * [Problem Solving Steps](#problem-solving-steps)
 
 ## Demo
