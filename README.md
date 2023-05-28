@@ -17,7 +17,7 @@ https://github.com/lawalsegun2025/laptop_price_predictor/assets/94943377/ea95b3d
 
 ## Overview
 
-This project is about predicting the price of a laptop based on common features like Memory, Processor and many more attributes. <br/><br/>
+This project involved building a model capable of predicting the price range of a laptop based on the laptop's software and hardware specification. <br/><br/>
 <img src="img/laptops_images.jpg">
 
 ## Motivation
@@ -30,4 +30,4 @@ How awesome will it be to be able to know the price range of the type of laptop 
 3. Model Building (selecting the best Algorithm for prediction)
 4. Hyperparameter Tuning (setting the right parameters for the algorithm)
 5. Saving the model into a Pickle File and Integrating it with UI
-6. Deploying the Application on Heroku Cloud Platform
+6. Deploying the Application locally.
