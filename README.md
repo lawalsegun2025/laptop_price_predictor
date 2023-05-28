@@ -4,10 +4,10 @@
 
 * [Demo](#Demo)
 * [Overview](#overview)
+* [Motivation](#motivattion)
 * [Problem Solving Steps](#problem-solving-steps)
 
 ## Demo
-https://www.youtube.com/watch?v=svCHOiXS8so
 
 
 
@@ -19,6 +19,9 @@ https://github.com/lawalsegun2025/laptop_price_predictor/assets/94943377/ea95b3d
 
 This project is about predicting the price of a laptop based on common features like Memory, Processor and many more attributes. <br/><br/>
 <img src="img/laptops_images.jpg">
+
+## Motivation
+How awesome will it be to be able to know the price range of the type of laptop you will like to buy. This project solves this problem. With this model you can have a range of price of the specifications of the type of laptop you will like to purchase.
 
 ## Problem Solving Steps
 
