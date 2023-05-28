@@ -81,4 +81,4 @@ if st.button("Predict Price"):
 
     prediction = int(np.exp(rf.predict(query)[0]))
 
-    st.title("Predicted price for this laptop could be between " + str(prediction-12.1)+" $" + " " + " to " + " " + str(prediction+12.1)+"$")
+    st.title('Predicted price for this laptop could be between ' + str(prediction-12.1)+'\$' + ' ' + ' to ' + ' ' + str(prediction+12.1)+'\$')
