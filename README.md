@@ -2,8 +2,18 @@
 
 ## Table of Content
 
+* [Demo](#Demo)
 * [Overview](#overview)
 * [Problem Solving Steps](#problem-solving-steps)
+
+## Demo
+https://www.youtube.com/watch?v=svCHOiXS8so
+
+
+
+https://github.com/lawalsegun2025/laptop_price_predictor/assets/94943377/ea95b3d9-68c7-4979-8bcb-d7b847d0c3ae
+
+
 
 ## Overview
 
