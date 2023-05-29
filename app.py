@@ -1,7 +1,7 @@
 import streamlit as st
-import pandas as pd 
-import numpy as np 
-import pickle 
+import pandas as pd
+import numpy as np
+import pickle
 
 file1 =  open("pipeline.pkl", "rb")
 rf = pickle.load(file1)
@@ -25,7 +25,7 @@ type = st.selectbox("Type", data["TypeName"].unique())
 # Ram present in Laptop
 ram = st.selectbox("Ram (in GB)", [2, 4, 6, 8, 12, 16, 24, 32, 64])
 
-# OS of laptop 
+# OS of laptop
 os = st.selectbox("OS", data["OpSys"].unique())
 
 # weight of laptop
@@ -65,7 +65,7 @@ if st.button("Predict Price"):
         touchscreen = 0
 
     if ips == "Yes":
-        ips = 1 
+        ips = 1
     else:
         ips = 0
 
@@ -81,4 +81,4 @@ if st.button("Predict Price"):
 
     prediction = int(np.exp(rf.predict(query)[0]))
 
-    st.title('Predicted price for this laptop could be between ' + str(prediction-12.1)+'\$' + ' ' + ' to ' + ' ' + str(prediction+12.1)+'\$')
+    st.title('Predicted price for this laptop could be between ' + '\$'+ str(prediction-12.1) + ' ' + ' to ' + ' ' + '\$' + str(prediction+12.1))
